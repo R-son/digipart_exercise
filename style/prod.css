@@ -1,0 +1,27 @@
+html
+{
+    background-image: url("../assets/bg.jpg");
+}
+
+#product_edit
+{
+    display: flex;
+    flex-direction: left;
+    width: 100%;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.prod_infos
+{
+    display: flex;
+    flex-direction: left;
+    justify-content: space-between;
+    padding-top: 10px;
+    width: 100%;
+}
+
+#_idelete, #_id
+{
+    display: none;
+}

@@ -1,0 +1,14 @@
+html
+{
+    background-image: url("../assets/bg.jpg");
+}
+
+form
+{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+}
